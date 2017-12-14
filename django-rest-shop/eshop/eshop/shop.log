@@ -1,0 +1,39 @@
+INFO:root:user 1 cart changed,product 1 related. Time is 2017-12-13 15:10:48.883962.
+INFO:root:user 1 cart changed,product 9 related. Time is 2017-12-13 15:46:26.450224.
+INFO:root:user 1 cart changed,product 9 related. Time is 2017-12-13 15:49:59.092387.
+INFO:root:user 1 cart changed,product 2 related. Time is 2017-12-13 15:50:12.320143.
+INFO:root:user 1 cart changed,product 14 related. Time is 2017-12-13 15:50:59.380835.
+INFO:root:user 1 cart changed,product 11 related. Time is 2017-12-13 15:55:12.364305.
+INFO:root:user 1 cart changed,product 3 related. Time is 2017-12-13 15:55:35.889650.
+WARNING:django.request:Not Found: /computer/order_rud/55/
+WARNING:django.request:Not Found: /computer/order_rud/54/
+WARNING:django.request:Not Found: /computer/order_rud/54/
+WARNING:django.request:Not Found: /computer/order_rud/54/
+WARNING:django.request:Not Found: /computer/order_rud/54/
+WARNING:django.request:Not Found: /computer/order_rud/54/
+WARNING:django.request:Not Found: /computer/order_rud/54/
+WARNING:django.request:Not Found: /computer/order_rud/54/
+WARNING:django.request:Not Found: /computer/order_rud/54/
+INFO:root:user 1 cart changed,product 7 related. Time is 2017-12-13 15:57:40.654786.
+INFO:root:user 1 cart changed,product 11 related. Time is 2017-12-13 15:58:35.340914.
+INFO:root:user 1 cart changed,product 3 related. Time is 2017-12-13 15:58:56.880146.
+DEBUG:root:this is debug
+INFO:root:user 1 cart changed,product 13 related. Time is 2017-12-13 16:04:48.331248.
+DEBUG:MARKDOWN:Successfuly imported extension module "markdown.extensions.toc".
+DEBUG:MARKDOWN:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+DEBUG:root:this is debug
+INFO:root:user 1 cart changed,product 11 related. Time is 2017-12-13 16:12:19.114031.
+DEBUG:MARKDOWN:Successfuly imported extension module "markdown.extensions.toc".
+DEBUG:MARKDOWN:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+DEBUG:MARKDOWN:Successfuly imported extension module "markdown.extensions.toc".
+DEBUG:MARKDOWN:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+DEBUG:MARKDOWN:Successfuly imported extension module "markdown.extensions.toc".
+DEBUG:MARKDOWN:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+DEBUG:MARKDOWN:Successfuly imported extension module "markdown.extensions.toc".
+DEBUG:MARKDOWN:Successfully loaded extension "markdown.extensions.toc.TocExtension".
+DEBUG:root:this is debug
+INFO:root:user 1 cart changed,product 3 related. Time is 2017-12-13 16:30:54.772843.
+DEBUG:root:this is debug
+INFO:root:user 1 cart changed,product 12 related. Time is 2017-12-13 16:32:05.407883.
+DEBUG:root:this is debug
+INFO:root:user 1 cart changed,product 8 related. Time is 2017-12-13 16:33:47.475721.
